@@ -9,7 +9,7 @@ A repository to test out the server side events in Node.js. Server Side Events (
 - Open the inspect console
 
 - Type :
-- let sse = new EventSource("http://127.0.0.1:8080/stream/23");
+- let sse = new EventSource("http://localhost:8080/stream/23");
 - sse.onmessage = console.log
 
 - The server will now start streaming the message to the client side
