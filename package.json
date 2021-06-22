@@ -1,0 +1,23 @@
+{
+  "name": "node-sse",
+  "version": "1.0.0",
+  "description": "A repository to test out the server side events in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Terance98/node-sse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Terance98/node-sse/issues"
+  },
+  "homepage": "https://github.com/Terance98/node-sse#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
